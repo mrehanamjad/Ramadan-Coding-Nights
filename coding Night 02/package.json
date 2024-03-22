@@ -1,6 +1,6 @@
 {
-  "name": "r9-number-guessing-game",
-  "version": "2.2.1",
+  "name": "r9-sim-cal",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,8 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "mrehanamjad",
+  "author": "M Rehan Amjad",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
