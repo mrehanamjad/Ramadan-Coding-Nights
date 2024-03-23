@@ -11,7 +11,7 @@ for (let i = 1; i > -1; i++) {
     { message: "Enter Your Guess: ", type: "number", name: "userNumber" },
   ]);
   if (answer.userNumber === winNumber) {
-    console.log("Congratulations! You have Guessed write Number");
+    console.log("Congratulations! You have Guessed right Number");
     console.log(`Total attempts: ${i}`);
     break;
   } else {

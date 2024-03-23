@@ -1,6 +1,6 @@
 {
   "name": "r9-number-guessing-game",
-  "version": "2.2.1",
+  "version": "2.3.1",
   "description": "",
   "main": "index.js",
   "type": "module",
